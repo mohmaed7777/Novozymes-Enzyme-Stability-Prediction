@@ -2,7 +2,7 @@
 Help identify the thermostable mutations in enzymes
 
 
-# **About the Competetion:=**
+# **About the competition:=**
 
 **The goal of this competition is to predict the thermostability of enzyme variants. The experimentally measured thermostability (melting temperature) data includes natural sequences, as well as engineered sequences with single or multiple mutations upon the natural sequences.**
 
